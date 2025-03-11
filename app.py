@@ -96,3 +96,26 @@ if st.button("Predict Price"):
 
     # Show the result
     st.success(f"The predicted price of the house is: **${predicted_price:,.2f}**")
+
+# Footer
+st.markdown(
+    """
+    <style>
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        color: black;
+        text-align: center;
+        padding: 10px;
+        font-size: 16px;
+    }
+    </style>
+    <div class="footer">
+        <p>© 2025 Nimrod Acosta</p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
