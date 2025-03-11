@@ -1,4 +1,4 @@
-## House Price Prediction with Decision Tree Regression
+# House Price Prediction with Decision Tree Regression
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -106,11 +106,11 @@ Contributions are welcome! If you find any issues or have suggestions, please op
 # Contact
 If you have any questions or feedback, feel free to reach out:
 
-Name: [Nimrod Acosta]
+Name: Nimrod Acosta
 
 Email: [nimrod7day@gimail.com]
-
 GitHub: [nimplay](https://github.com/nimplay)
+Linkedin: [nimrod-acosta](https://www.linkedin.com/in/nimrod-acosta/)
 
 Thanks for using this app! 🚀
 
