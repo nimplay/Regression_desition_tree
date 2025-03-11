@@ -109,7 +109,9 @@ If you have any questions or feedback, feel free to reach out:
 Name: Nimrod Acosta
 
 Email: [nimrod7day@gimail.com]
+
 GitHub: [nimplay](https://github.com/nimplay)
+
 Linkedin: [nimrod-acosta](https://www.linkedin.com/in/nimrod-acosta/)
 
 Thanks for using this app! 🚀
